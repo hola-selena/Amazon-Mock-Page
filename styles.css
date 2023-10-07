@@ -1,0 +1,59 @@
+body {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.title {
+    font-weight: lighter;
+    padding-top: 20px;
+
+}
+
+.main-img {
+    width: 300px;
+    box-shadow: 0px 2px 5px lightgray;
+    
+   
+}
+
+.images {
+    padding-left: 100px;
+    
+}
+
+.ratings-img {
+    width: 100px;
+}
+
+.breadcrumb {
+    color: #565959;
+    padding-top: 25px;
+    
+}
+
+a:link {
+  color: #007185;
+}
+
+.left {
+    display: flex;
+    justify-content: space-between;
+    max-height: auto;
+    
+}
+
+
+.right {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 5px;
+    font-weight: 300;
+}
+
+
+
